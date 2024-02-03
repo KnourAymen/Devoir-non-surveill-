@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1706959415 source:c:\users\aymen\desktop\my_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	"fileBanner.h"
+	"fileProfile.h"
+	"texteCentre.h"
+	"texteColore.h"
+
+1706957954 c:\users\aymen\desktop\my_projet\filebanner.h
+
+1706955750 c:\users\aymen\desktop\my_projet\textecentre.h
+
+1706957380 c:\users\aymen\desktop\my_projet\fileprofile.h
+
+1706955158 c:\users\aymen\desktop\my_projet\textecolore.h
+
+1706960997 source:e:\final\my_projet\my_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+	"fileBanner.h"
+	"fileProfile.h"
+	"texteCentre.h"
+	"texteColore.h"
+
+1706957954 e:\final\my_projet\my_projet\filebanner.h
+
+1706957380 e:\final\my_projet\my_projet\fileprofile.h
+
+1706955750 e:\final\my_projet\my_projet\textecentre.h
+
+1706955158 e:\final\my_projet\my_projet\textecolore.h
+
